@@ -39,14 +39,17 @@
 <br><br>
 
 <p class=footertext2>
+
 **James Evans** is a Professor in the Department of Sociology, Director of Knowledge Lab, and Co-Director for the Masters in Computational Social Science Program.
 </p>
 
 <br>
 
 <p class=footertext2>
+
 **Attendance**: The presentation will be held in Kent Chem Lab 107. MACSS students in Group 1 are required to attend the workshop in-person. MACSS students in Group 2 and all other attendees will need to join the meeting via Zoom. 
 </p>
+
 
 <p class=footertext2>
 
