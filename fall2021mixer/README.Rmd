@@ -99,17 +99,17 @@ readings0 <- paste0("[", week_paper_ref0,"](",week_paper_file0,")")
 <br>
 
 <p class=footertext2>
-**Attendance**: The presentation will be held in Kent Chem Lab 107. MACSS students in Group 1 are required to attend the workshop in-person. MACSS students in Group 2 and all other attendees will need to join the meeting via Zoom. 
+
+**Attendance**: The presentation will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's presentation in-person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom. Students in Group 2 are expected to show up in-person next week. 
 </p>
 
 <p class=footertext2>
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first two issues pages of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository</a> <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"> here </a> and <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/2"> here. </a>
-</p>
+
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first issues <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 <p class=footertext2>
+
 **Before the first meeting**, by Wednesday, September 29 @ 11:59pm each of you will:
-
-- post a question about the reading of this week's workshop. 
 
 - Think about whom and what you'd like to see at our workshop over the coming academic year, and **suggest at least one speaker or one paper, and an explanation of why** that speaker or *some speaker* from that paper would be desirable visitors to the computational social science workshop at the University of Chicago. For example, they may have developed a powerful new method, or analyze the social world in a new way, or discover new social facts or processes, or develop a new socially relevant technology, or be an amazing speaker (e.g., link to a YouTube presentation). No one is off limits; although not all will come if and when we invite them (but many will). You may submit more than one speaker or paper, but make sure to add each as a separate response to the issues page (e.g., so that when people upvote it...see below, we will know what they are upvoting!) 
 
