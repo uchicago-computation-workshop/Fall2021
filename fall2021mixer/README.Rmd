@@ -7,7 +7,45 @@ output:
     keep_md: true
 ---
 
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
 
+date <- "09/30/2021"
+
+quarter <- "Fall2021"
+date <- "09/30"
+week_folder <- "fall2021mixer"
+
+
+title <- "Social Computing & Computational Social Science"
+
+
+speaker <- "James Evans"
+department <- "Department of Sociology"
+university <- "University of Chicago"
+github_home <- "https://github.com/uchicago-computation-workshop"
+
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"
+zoom_url <- ""
+
+
+#Papers
+
+week_paper_ref0 <- "James Evans. 2020. 'Social Computing Unhinged.' Journal of Social Computing, 1: 1."
+week_paper_file0 <- "https://ieeexplore.ieee.org/document/9241509"
+
+
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings0 <- paste0("[", week_paper_ref0,"](",week_paper_file0,")")
+  
+
+
+
+```
 
 
 
@@ -15,9 +53,9 @@ output:
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> James Evans</h1>
-<h3 class=pfblock-header3> Department of Sociology </h3>
-<h3 class=pfblock-header3> University of Chicago </h3>
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
 
 <br><br>
 
@@ -31,7 +69,7 @@ output:
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/fall2021mixer> Social Computing & Computational Social Science </a>
+  <a href=`r week_repo`> `r title` </a>
 </h2>
 
 <br>
@@ -48,7 +86,7 @@ output:
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 09/30 </h4>
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
 <br><br>
@@ -82,7 +120,7 @@ output:
 
 This week's suggested readings:
 
-- [James Evans. 2020. 'Social Computing Unhinged.' Journal of Social Computing, 1: 1.](https://ieeexplore.ieee.org/document/9241509)
+- `r readings0`
 
 
 <br>
@@ -95,4 +133,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/fall2021mixer>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
