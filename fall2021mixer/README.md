@@ -1,18 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
-
-
-
-<br>
-
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> James Evans</h1>
@@ -54,7 +39,6 @@ output:
 <br><br>
 
 <p class=footertext2>
-
 **James Evans** is a Professor in the Department of Sociology, Director of Knowledge Lab, and Co-Director for the Masters in Computational Social Science Program.
 </p>
 
@@ -65,11 +49,14 @@ output:
 </p>
 
 <p class=footertext2>
+
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the first two issues pages of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository</a> <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"> here </a> and <a href= "https://github.com/uchicago-computation-workshop/Fall2021/issues/2"> here. </a>
 </p>
 
 <p class=footertext2>
+
 **Before the first meeting**, by Wednesday, September 29 @ 11:59pm each of you will:
+
 
 - post a question about the reading of this week's workshop. 
 
