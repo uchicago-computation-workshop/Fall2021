@@ -1,16 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
-
-
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -62,7 +49,7 @@ output:
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's presentation in person. All MACSS faculty members are also welcome to join us in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)).
+**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's presentation in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)).
 </p>
 
 <p class=footertext2>

@@ -100,7 +100,7 @@ readings0 <- paste0("[", week_paper_ref0,"](",week_paper_file0,")")
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's presentation in person. All MACSS faculty members are also welcome to join us in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](`r zoom_url`)).
+**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's presentation in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](`r zoom_url`)).
 </p>
 
 <p class=footertext2>
