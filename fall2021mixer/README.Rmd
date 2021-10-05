@@ -27,7 +27,7 @@ github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
 issues_url <- "https://github.com/uchicago-computation-workshop/Fall2021/issues/1"
-zoom_url <- ""
+zoom_url <- "https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09"
 
 
 #Papers
@@ -100,7 +100,7 @@ readings0 <- paste0("[", week_paper_ref0,"](",week_paper_file0,")")
 
 <p class=footertext2>
 
-**Attendance**: The presentation will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's presentation in-person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom. Students in Group 2 are expected to show up in-person next week. 
+**Attendance**: The presentation will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's presentation in-person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom. (A link will be provided in a follow-up email.) Students in Group 2 are expected to show up in-person next week. 
 </p>
 
 <p class=footertext2>

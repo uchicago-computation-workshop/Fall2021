@@ -1,3 +1,18 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
+
+<br>
+
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> James Evans</h1>
@@ -47,7 +62,7 @@
 
 <p class=footertext2>
 
-**Attendance**: The presentation will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's presentation in-person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom. Students in Group 2 are expected to show up in-person next week. 
+**Attendance**: The presentation will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's presentation in-person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom. (A link will be provided in a follow-up email.) Students in Group 2 are expected to show up in-person next week. 
 </p>
 
 <p class=footertext2>
