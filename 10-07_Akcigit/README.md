@@ -1,4 +1,4 @@
-<br>
+
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
@@ -42,14 +42,19 @@
 
 <p class=footertext2>
 
-**Ufuk Akcigit** is the Arnold C. Harberger Professor in the Department of Economics at the University of Chicago. 
+**Ufuk Akcigit** is the Arnold C. Harberger Professor of Economics at the University of Chicago. He is a Senior Research Fellow at Brookings Institute, an elected Research Associate at the National Bureau of Economic Research, Center for Economic Policy Research, and the Center for Economic Studies, and a Distinguished Research Fellow at Koc University.
+
+As a macroeconomist, Akcigit’s research centers on economic growth, technological 
+creativity, innovation, entrepreneurship, productivity, and firm dynamics. His research has been repeatedly published in the top economics journals, cited by numerous policy reports, and the popular media.
+
+The contributions of Akcigit’s research has been recognized by the National Science Foundation with the CAREER Grant (NSF's most prestigious awards in support of early-career faculty), Kaufmann Foundation's Junior Faculty Grant, and Kiel Institute Excellence Award, among many other institutions. In 2019, Akcigit was named the winner of the Max Plank-Humboldt Research Award (endowed with 1.5 million euros and aimed at scientists with outstanding future potential). In 2021, Akcigit was awarded the prestigious Guggenheim Fellowship and he has recently been elected a Fellow of the Econometric Society.
 </p>
 
 <br>
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's presentation in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)).
+**Attendance**: The talk will be held in Rm 142 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's talk in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)).
 </p>
 
 <p class=footertext2>
