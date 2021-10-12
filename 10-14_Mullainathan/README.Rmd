@@ -26,7 +26,7 @@ university <- "University of Chicago"
 github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Fall2021/issues/4"
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2021/issues/5"
 zoom_url <- "https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09"
 
 

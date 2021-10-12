@@ -54,7 +54,7 @@ In past work he has combined insights from economics and behavioral science with
 **Attendance**: The talk will be held in Rm 295 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's talk in person. Due to capacity constraint, the rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)) this week.
 
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/4> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a></p>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/5> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a></p>
 
 This week's suggested reading:
 
@@ -70,4 +70,4 @@ This week's suggested reading:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/4>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-14_Mullainathan>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-14_Mullainathan>workshop's public repository on GitHub.</a></p>
