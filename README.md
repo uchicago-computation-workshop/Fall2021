@@ -15,6 +15,16 @@
 
 <div><img src="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/sendhil-mullainathan/chicago-booth-mullainathan-sendhil.jpg?cx=0.51&cy=0.32&cw=749&ch=940&hash=6EF102A9D488FD2E53535E080FDFA9AB" width="240" height="301"></div>
 
+### Oct 21st - [Anjali Adukia](https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-21_Adukia)
+
+<div><img src="https://harris.uchicago.edu/files/styles/square/public/2018-11/adukia.jpg?itok=ts1yK6LA" width="240" height="240"></div>
+
+
+
+
+
+
+
 
 
 
