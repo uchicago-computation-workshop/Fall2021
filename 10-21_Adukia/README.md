@@ -54,7 +54,7 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/5> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/6> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 This week's suggested readings:
 
@@ -71,4 +71,4 @@ This week's suggested readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/5>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-21_Adukia>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/6>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-21_Adukia>workshop's public repository on GitHub.</a></p>
