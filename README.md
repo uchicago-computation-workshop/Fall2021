@@ -19,6 +19,10 @@
 
 <div><img src="https://harris.uchicago.edu/files/styles/square/public/2018-11/adukia.jpg?itok=ts1yK6LA" width="240" height="240"></div>
 
+### Oct 28th - [Abdullah Almaatouq](https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq)
+
+<div><img src="https://images.squarespace-cdn.com/content/v1/57c1db34579fb31c1f913930/1632796121716-GQAOVJPG8RXIVY46IMHQ/headshot2.png?format=1500w" width="240" height="240"></div>
+
 
 
 

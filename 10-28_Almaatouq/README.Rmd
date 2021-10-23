@@ -1,0 +1,133 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+
+date <- "10/28/2021"
+
+quarter <- "Fall2021"
+
+week_folder <- "10-28_Almaatouq"
+
+
+title <- "Playing 20,000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science"
+
+
+speaker <- "Abdullah Almaatouq"
+department <- "Sloan School of Management"
+university <- "Massachusetts Institute of Technology"
+github_home <- "https://github.com/uchicago-computation-workshop"
+
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Fall2021/issues/7"
+zoom_url <- "https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09"
+
+
+#Papers
+week_paper_ref0 <- "Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E., Evans, J., & Watts, D.J., 'Playing 20,0000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science.'"
+week_paper_file0 <- "High-throughput Experiments.pdf"
+
+week_paper_ref1 <- "Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36)."
+week_paper_file1 <- "e2101062118.pdf"
+
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file0,")")
+
+readings1 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
+  
+
+
+
+```
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+
+
+<p class=footertext2>
+
+**Summary:** Books shape how children learn about society and social norms, in part through the representation of different characters. To better understand the messages children encounter in books, we introduce new artificial intelligence methods for systematically converting images into data. We apply these image tools, along with established text analysis methods, to measure the representation of race, gender, and age in children’s books commonly found in US schools and homes over the last century. We find that more characters with darker skin color appear over time, but “mainstream” award-winning books, which are twice as likely to be checked out from libraries, persistently depict more lighter-skinned characters even after conditioning on perceived race. Across all books, children are depicted with lighter skin than adults. Over time, females are increasingly present but are more represented in images than in text, suggesting greater symbolic inclusion in pictures than substantive inclusion in stories. Relative to their growing share of the US population, Black and Latinx people are underrepresented in the mainstream collection; males, particularly White males, are persistently overrepresented. Our data provide a view into the “black box” of education through children’s books in US schools and homes, highlighting what has changed and what has endured.
+
+
+</p>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:00am-12:20pm </h4>
+
+<br><br>
+
+<p class=footertext2>
+
+**Abdullah Almaatouq** is a computational social scientist. At the Massachusetts Institute of Technology, Abdullah is the Douglas Drane Career Professor, an assistant professor in the Sloan School of Management, and affiliated faculty at the Center for Computational Engineering and Connection Science Research Initiative. 
+
+Abdullah’s research lies at the intersection of computer science and human behavior, with a focus on collective intelligence and large-scale experimentation. His current work centers on questions related to whether and, if so, under what conditions groups exhibit superior performance outcomes relative to individuals. As he pursues his research, Abdullah is regularly presented with challenges that prompt him to innovate in experimental design and data analysis. This includes creating Empirica, a virtual lab platform for developing and conducting synchronous and high-throughput human-participant experiments.
+
+Abdullah holds a PhD in Computational Science and Engineering and a dual masters from MIT. Before that, he received his undergraduate degree from Southampton University, United Kingdom.
+</p>
+
+<br>
+
+<p class=footertext2>
+
+**Attendance**: The talk will be held in Rm 295 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's talk in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom ([link](`r zoom_url`)).
+</p>
+
+<p class=footertext2>
+
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= `r issues_url`> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+
+This week's suggested readings:
+
+- `r readings0`
+- `r readings1`
+
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:00 a.m. to 12:20 p.m.. All interested faculty and graduate students are welcome.</p>
+
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
