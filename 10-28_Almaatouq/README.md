@@ -60,7 +60,7 @@ Abdullah holds a PhD in Computational Science and Engineering and a dual masters
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/7> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
-This week's suggested readings:
+This week's required readings:
 
 - [Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E., Evans, J., & Watts, D.J., 'Playing 20,0000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science.'](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/HighThroughputExperiments.pdf)
 

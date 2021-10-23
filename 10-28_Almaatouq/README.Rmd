@@ -114,7 +114,7 @@ Abdullah holds a PhD in Computational Science and Engineering and a dual masters
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= `r issues_url`> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
-This week's suggested readings:
+This week's required readings:
 
 - `r readings0`
 - `r readings1`
