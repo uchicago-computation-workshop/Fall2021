@@ -18,7 +18,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq> Playing 20,000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq>  In search of synergy in the Task Space using high-throughput experiment design </a>
 </h2>
 
 <br>
@@ -28,7 +28,7 @@
 
 <p class=footertext2>
 
-**Summary:** Books shape how children learn about society and social norms, in part through the representation of different characters. To better understand the messages children encounter in books, we introduce new artificial intelligence methods for systematically converting images into data. We apply these image tools, along with established text analysis methods, to measure the representation of race, gender, and age in children’s books commonly found in US schools and homes over the last century. We find that more characters with darker skin color appear over time, but “mainstream” award-winning books, which are twice as likely to be checked out from libraries, persistently depict more lighter-skinned characters even after conditioning on perceived race. Across all books, children are depicted with lighter skin than adults. Over time, females are increasingly present but are more represented in images than in text, suggesting greater symbolic inclusion in pictures than substantive inclusion in stories. Relative to their growing share of the US population, Black and Latinx people are underrepresented in the mainstream collection; males, particularly White males, are persistently overrepresented. Our data provide a view into the “black box” of education through children’s books in US schools and homes, highlighting what has changed and what has endured.
+**Summary:** Are two heads better than one, or do too many cooks spoil the broth? Although researchers have generated a large number of nuanced answers to this question, they have had little success specifying the range of conditions for which a given answer applies. I argue that one of the keys to solving the puzzle is to better understand the underlying nature of the tasks being performed. Because no clear language exists to describe tasks in a way that allows for straightforward comparisons across studies, the role of task characteristics remains poorly understood. I will present an idea for developing a comprehensive, empirically grounded theory of group tasks using high-throughput, adaptive experiment design.
 
 
 </p>
