@@ -108,7 +108,6 @@ Abdullah holds a PhD in Computational Science and Engineering and a dual masters
 <p class=footertext2>
 
 **Attendance**: The talk will be held in Rm 295 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's talk in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom ([link](`r zoom_url`)).
-</p>
 
 <p class=footertext2>
 
