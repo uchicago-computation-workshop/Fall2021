@@ -64,7 +64,7 @@ This week's suggested readings:
 
 - [Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E., Evans, J., & Watts, D.J., 'Playing 20,0000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science.'](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/HighThroughputExperiments.pdf)
 
-- [Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/e2101062118.pdf)
+- [Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/e2101062118.full.pdf)
 
 <br>
 

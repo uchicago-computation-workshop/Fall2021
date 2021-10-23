@@ -35,7 +35,7 @@ week_paper_ref0 <- "Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E.,
 week_paper_file0 <- "HighThroughputExperiments.pdf"
 
 week_paper_ref1 <- "Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36)."
-week_paper_file1 <- "e2101062118.pdf"
+week_paper_file1 <- "e2101062118.full.pdf"
 
 
 #No Need to Edit
