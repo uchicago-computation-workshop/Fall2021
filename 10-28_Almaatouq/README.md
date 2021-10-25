@@ -1,8 +1,21 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
 
+
+
+
+
+<br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Abdullah Almaatouq </h1>
+<h1 class=pfblock-header3> Abdullah Almaatouq</h1>
 <h3 class=pfblock-header3> Sloan School of Management </h3>
 <h3 class=pfblock-header3> Massachusetts Institute of Technology </h3>
 
@@ -18,7 +31,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq>  In search of synergy in the Task Space using high-throughput experiment design </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq> In search of synergy in the Task Space using high-throughput experiment design </a>
 </h2>
 
 <br>
@@ -62,8 +75,8 @@ Abdullah holds a PhD in Computational Science and Engineering and a dual masters
 This week's required readings:
 
 - [Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E., Evans, J., & Watts, D.J., 'Playing 20,0000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science.'](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/HighThroughputExperiments.pdf)
-
 - [Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/e2101062118.full.pdf)
+
 
 <br>
 
