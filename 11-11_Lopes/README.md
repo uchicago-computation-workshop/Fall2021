@@ -1,3 +1,15 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
 
 <br>
 
@@ -5,7 +17,7 @@
 
 <h1 class=pfblock-header3> Pedro Lopes</h1>
 <h3 class=pfblock-header3> Computer Science </h3>
-<h3 class=pfblock-header3> University of Chicgao </h3>
+<h3 class=pfblock-header3> University of Chicago </h3>
 
 <br><br>
 
@@ -31,6 +43,8 @@
 
 **Summary:** The main question that drives my research is: what is the next interface paradigm that supersedes wearable devices? I argue that the new paradigm is one in which interactive devices will integrate with the user’s biological senses and actuators. This way of engineering devices that intentionally borrow parts of the user’s biology puts forward a new generation of miniaturized devices; allowing us to circumvent traditional physical constraints. For instance, in the case of our devices based on electrical muscle stimulation, they demonstrate how our body-device integration circumvents the constraints imposed by the ratio of electrical power and size of a motor. Taking this further, we demonstrate how our body-device integration approach allowed us to also miniaturize thermal feedback (hot/cold sensations) without the need for power-hungry thermal devices. We believe that these bodily-integrated devices are the natural succession to wearable interfaces and allow us to investigate how interfaces might connect to our bodies in a more direct and personal way.
 
+
+
 </p>
 
 <br>
@@ -43,6 +57,7 @@
 <p class=footertext2>
 
 **Pedro Lopes** is an Assistant Professor in Computer Science at the University of Chicago. Pedro focuses on integrating computer interfaces with the human body—exploring the interface paradigm that supersedes wearable computing. Some of these new integrated-devices include: muscle stimulation wearable that allows users to manipulate tools they have never seen before or that accelerate their reaction time, or a device that leverages the sense of smell to create an illusion of temperature. Pedro’s work has received a number of academic awards, such as four ACM CHI/UIST Best Papers. It also captured the interest of the media, such as New York Times or Wired and was exhibited at Ars Electronica & World Economic Forum. 
+
 
 </p>
 
