@@ -54,7 +54,7 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/8> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/9> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 This week's required readings:
 
@@ -73,4 +73,4 @@ This week's required readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/8>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-11_Lopes>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/9>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-11_Lopes>workshop's public repository on GitHub.</a></p>
