@@ -130,4 +130,4 @@ This week's required readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>

@@ -3,9 +3,9 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Abdullah Almaatouq</h1>
-<h3 class=pfblock-header3> Sloan School of Management </h3>
-<h3 class=pfblock-header3> Massachusetts Institute of Technology </h3>
+<h1 class=pfblock-header3> Pedro Lopes</h1>
+<h3 class=pfblock-header3> Computer Science </h3>
+<h3 class=pfblock-header3> University of Chicgao </h3>
 
 <br><br>
 
@@ -19,7 +19,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq> In search of synergy in the Task Space using high-throughput experiment design </a>
+  <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-11_Lopes> Integrating interactive devices with the user’s body </a>
 </h2>
 
 <br>
@@ -29,41 +29,38 @@
 
 <p class=footertext2>
 
-**Summary:** Are two heads better than one, or do too many cooks spoil the broth? Although researchers have generated a large number of nuanced answers to this question, they have had little success specifying the range of conditions for which a given answer applies. I argue that one of the keys to solving the puzzle is to better understand the underlying nature of the tasks being performed. Because no clear language exists to describe tasks in a way that allows for straightforward comparisons across studies, the role of task characteristics remains poorly understood. I will present an idea for developing a comprehensive, empirically grounded theory of group tasks using high-throughput, adaptive experiment design.
-
+**Summary:** The main question that drives my research is: what is the next interface paradigm that supersedes wearable devices? I argue that the new paradigm is one in which interactive devices will integrate with the user’s biological senses and actuators. This way of engineering devices that intentionally borrow parts of the user’s biology puts forward a new generation of miniaturized devices; allowing us to circumvent traditional physical constraints. For instance, in the case of our devices based on electrical muscle stimulation, they demonstrate how our body-device integration circumvents the constraints imposed by the ratio of electrical power and size of a motor. Taking this further, we demonstrate how our body-device integration approach allowed us to also miniaturize thermal feedback (hot/cold sensations) without the need for power-hungry thermal devices. We believe that these bodily-integrated devices are the natural succession to wearable interfaces and allow us to investigate how interfaces might connect to our bodies in a more direct and personal way.
 
 </p>
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 10/28/2021 </h4>
+<h4 class=pfblock-header3> Thursday, 11/11/2021 </h4>
 <h4 class=pfblock-header3> 11:00am-12:20pm </h4>
 
 <br><br>
 
 <p class=footertext2>
 
-**Abdullah Almaatouq** is a computational social scientist. At the Massachusetts Institute of Technology, Abdullah is the Douglas Drane Career Professor, an assistant professor in the Sloan School of Management, and affiliated faculty at the Center for Computational Engineering and Connection Science Research Initiative. 
+**Pedro Lopes** is an Assistant Professor in Computer Science at the University of Chicago. Pedro focuses on integrating computer interfaces with the human body—exploring the interface paradigm that supersedes wearable computing. Some of these new integrated-devices include: muscle stimulation wearable that allows users to manipulate tools they have never seen before or that accelerate their reaction time, or a device that leverages the sense of smell to create an illusion of temperature. Pedro’s work has received a number of academic awards, such as four ACM CHI/UIST Best Papers. It also captured the interest of the media, such as New York Times or Wired and was exhibited at Ars Electronica & World Economic Forum. 
 
-Abdullah’s research lies at the intersection of computer science and human behavior, with a focus on collective intelligence and large-scale experimentation. His current work centers on questions related to whether and, if so, under what conditions groups exhibit superior performance outcomes relative to individuals. As he pursues his research, Abdullah is regularly presented with challenges that prompt him to innovate in experimental design and data analysis. This includes creating Empirica, a virtual lab platform for developing and conducting synchronous and high-throughput human-participant experiments.
-
-Abdullah holds a PhD in Computational Science and Engineering and a dual masters from MIT. Before that, he received his undergraduate degree from Southampton University, United Kingdom.
 </p>
 
 <br>
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in Rm 295 of 1155 East 60th St. MACSS students who have a last name starting with A through L (Group 1) are required to attend this week's talk in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 2) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/95981728771?pwd=SWdIcmVYeDFINmZpaldkbmsxUmN4dz09)).
+**Attendance**: The talk will be held in Rm 295 of 1155 East 60th St. MACSS students who have a last name starting with M through Z (Group 2) are required to attend this week's talk in person. All MACSS faculty members are also welcome to join the talk in person. The rest of MACSS students (Group 1) and all other attendees will need to join the meeting via Zoom ([link](https://uchicago.zoom.us/j/92782114396?pwd=Q3RsR0YvbDFrd2R0MWZ4QllKUUFtZz09)).
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/7> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the issues <a href= https://github.com/uchicago-computation-workshop/Fall2021/issues/8> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 This week's required readings:
 
-- [Almaatouq, A., Griffiths, T.L., Suchow, J.W., Whiting, M.E., Evans, J., & Watts, D.J., 'Playing 20,0000 Questions with Nature: High-Throughput Experimentation in Social and Behavioral Science.'](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/HighThroughputExperiments.pdf)
-- [Almaatouq, A., Alsobay, M., Yin, M., & Watts, D. J. (2021). 'Task complexity moderates group synergy.' Proceedings of the National Academy of Sciences, 118(36).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/10-28_Almaatouq/e2101062118.full.pdf)
+- [Kasahara, S., Nishida, J., & Lopes, P. (2019, May). Preemptive Action: Accelerating Human Reaction Using Electrical Muscle Stimulation Without Compromising Agency. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-15).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/11-11_Lopes/lopes_1.pdf)
+- [Brooks, J., Nagles, S., & Lopes, P. (2020, April). Trigeminal-based Temperature Illusions. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-12).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/11-11_Lopes/lopes_2.pdf)
+- [Mueller, F. F., Lopes, P., Strohmeier, P., Ju, W., Seim, C., Weigel, M., ... & Maes, P. (2020, April). Next steps for human-computer integration. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-15).](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/11-11_Lopes/lopes_3.pdf)
 
 
 <br>
@@ -76,4 +73,4 @@ This week's required readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/10-28_Almaatouq>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/8>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-11_Lopes>workshop's public repository on GitHub.</a></p>
