@@ -23,6 +23,10 @@
 
 <div><img src="https://images.squarespace-cdn.com/content/v1/57c1db34579fb31c1f913930/1632796121716-GQAOVJPG8RXIVY46IMHQ/headshot2.png?format=1500w" width="240" height="240"></div>
 
+### Nov 11th - [Pedro Lopes](https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-11_Lopes)
+
+<div><img src="lopes.jpg" width="240" height="240"></div>
+
 
 
 
