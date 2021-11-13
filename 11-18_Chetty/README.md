@@ -1,10 +1,11 @@
 
 
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Marshini Chetty </h1>
+<h1 class=pfblock-header3> Marshini Chetty</h1>
 <h3 class=pfblock-header3> Computer Science </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -66,7 +67,8 @@ This week's required reading:
 
 And optional reading:
 
-- [Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-32. ](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/11-18_Chetty/Optional_Reading_Mathur_DarkPatterns.pdf)
+- [Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019). Dark patterns at scale: Findings from a crawl of 11K shopping websites. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-32.](https://github.com/uchicago-computation-workshop/Fall2021/blob/master/11-18_Chetty/Optional_Reading_Mathur_DarkPatterns.pdf)
+
 
 
 <br>
@@ -79,4 +81,4 @@ And optional reading:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/10>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a well-developed group question on the <a href=https://github.com/uchicago-computation-workshop/Fall2021/issues/10>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-18_Chetty>workshop's public repository on GitHub.</a></p>
