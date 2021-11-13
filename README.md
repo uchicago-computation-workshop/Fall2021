@@ -27,6 +27,9 @@
 
 <div><img src="lopes.jpg" width="240" height="240"></div>
 
+### Nov 18th - [Marshini Chetty](https://github.com/uchicago-computation-workshop/Fall2021/tree/master/11-18_Chetty)
+
+<div><img src="chetty.jpg" width="240" height="240"></div>
 
 
 
