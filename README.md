@@ -31,6 +31,10 @@
 
 <div><img src="chetty.jpg" width="240" height="240"></div>
 
+### Dec 2nd - [Greg Shakhnarovich ](https://github.com/uchicago-computation-workshop/Fall2021/tree/master/12-18_Shakhnarovich)
+
+<div><img src="https://www.ttic.edu/img/shakhnarovich.jpg" width="240"></div>
+
 
 
 
